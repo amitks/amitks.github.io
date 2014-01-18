@@ -1,6 +1,0 @@
-<ul class="main-navigation">
-  <li><a href="{{ root_url }}/">Blog</a></li>
-  <li><a href="{{ root_url }}/blog/archives">Archives</a></li>
-  <li><a href="www.github.com/amitks">Github</a></li>
-  <li><a href="www.twitter.com/msnamit">Twitter</a></li>
-</ul>
